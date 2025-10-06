@@ -1,0 +1,6 @@
+# Ignore Jenkins workspace
+workspace/
+
+users/
+secrets/
+identity.key.enc
